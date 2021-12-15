@@ -1,4 +1,4 @@
-# G-lensing:
+# Gravitational Lensing:
 
 Simulation of gravitational lensing.
 
