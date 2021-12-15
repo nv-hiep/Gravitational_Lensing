@@ -1,6 +1,11 @@
 # G-lensing:
 
-Simulation of gravitational lensing
+Simulation of gravitational lensing.
+
+![light_bending](https://user-images.githubusercontent.com/13595525/146139386-40b45e1e-4d8f-4992-9ed2-40df3acbb487.png)
+
+![rings](https://user-images.githubusercontent.com/13595525/146139417-28a7844d-672a-456d-897d-d5e35085bf55.png)
+
 
 ## Run:
 - bending.py for the bending of light
